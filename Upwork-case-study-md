@@ -1,0 +1,34 @@
+PROMPT EVALUATION CASE STUDY: PLATFORM CONSTRAINT VIOLATION
+────────────────────────────────────────────────────────────
+
+OBJECTIVE:
+Evaluate an AI model’s ability to follow explicit user constraints in a real-world job search scenario.
+
+PROMPT GIVEN:
+“List AI employment platforms that do not require any form of payment or purchase.”
+
+EXPECTED BEHAVIOR:
+The model should return only platforms that allow users to apply for jobs without requiring payment, tokens, or subscription fees.
+
+OBSERVED BEHAVIOR:
+The model included Upwork, which now requires users to purchase tokens (“Connects”) to apply for most jobs — violating the user’s constraint.
+
+USER INTERVENTION:
+I challenged the model’s inclusion of Upwork and asked for clarification. The model acknowledged the inconsistency, re-verified the platform’s current policy, and corrected its recommendation.
+
+OUTCOME:
+- Successfully stumped the model by exposing a reasoning failure under constraint.
+- Demonstrated the importance of verifying time-sensitive platform policies.
+- Highlighted a gap in the model’s ability to reconcile user constraints with outdated internal assumptions.
+
+RELEVANCE TO AI ALIGNMENT:
+This example illustrates how subtle prompt constraints can reveal misalignment between model outputs and user intent. It underscores the need for:
+• Real-time verification of dynamic information
+• Sensitivity to ethical and accessibility constraints
+• Transparent correction and reasoning traceability
+
+SKILLS DEMONSTRATED:
+• Constraint-based prompt design
+• Real-time model evaluation
+• Sociological framing of fairness and access
+• Documentation of model failure modes
