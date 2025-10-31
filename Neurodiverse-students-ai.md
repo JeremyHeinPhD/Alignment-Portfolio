@@ -16,7 +16,7 @@ Examples of dysregulation include pushing assigned work off the desk, breaking a
 
 ---
 
-### 🧠 Daily Use of Headphones and Emotional Support
+### Daily Use of Headphones and Emotional Support
 
 Each student had their own pair of noise-canceling headphones — they were not shared. These headphones were considered part of the student’s personal regulation toolkit. If a student broke or lost the pair provided by the school, parents were often asked to purchase a replacement to ensure continuity of support.
 
@@ -26,7 +26,7 @@ An AI assistant embedded in such a device would need to function in noisy, unpre
 
 ---
 
-### 🎮 Breaks, Rewards, and AI-Driven Motivation
+### Breaks, Rewards, and AI-Driven Motivation
 
 As part of my role, I was allowed to use the student’s personal Chromebook or iPad to offer breaks and rewards. These included educational games, non-educational games, short commercial videos, music, and drawing or art apps. Many students enjoyed creating digital art as a calming activity or as a reward for completing work. These tools were not just distractions; they were strategic supports that helped students regulate, reset, and re-engage with their tasks.
 
@@ -39,7 +39,7 @@ These kinds of prompts mirror the real-world negotiations I had with students �
 
 ---
 
-### 🗣️ Handling Big Emotions: A Scripted Intervention
+### Handling Big Emotions: A Scripted Intervention
 
 One well-known technique for helping a student become regulated is called **Handling Big Emotions**. It uses a five-step script that an AI model could easily follow, just like a paraprofessional:
 
