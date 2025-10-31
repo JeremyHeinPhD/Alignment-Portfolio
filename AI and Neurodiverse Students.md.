@@ -1,17 +1,21 @@
-Neurodiverse students include those on the autism spectrum disorder (ASD) and/or with emototional-behavioral disorders.
-Autism is a communication disorder, usually exhibited as an inability to engage in spontanious, turning-take speech with another person. In extreme cases, a student with autism will engage in "scripting."
-Scripting means repeating a phrase over and over, such as the same line of a song or a line from a TV commercial. It is an obsessive behavior and the student will react with hostility if interupted.
-An emotional-behaviorial disorder is often characterized by extremes of sadness or anger; the student has difficulty maintaining a middle-ground emotional state.
-When sad, the student will curl up on the floor and may ask "I am a bad person." When angry, the student may engage in physical agression and yelling. 
-I worked as a speical education paraprofessional with this student population in elementary schools in Washington County, MN, for four years
-I learned many techniques for helping students when they became "disregulated." 
-Disregulated means the student has started a negative emotional loop and is unable to realistically interpret the impact of their emotions and behaivor on others.
-Examples of disregulation include: pushing assigned work of off their desk and onto the floor; breaking a pencil as a sign of refusal to work; leaving the classroom without persmission.
-One of the most well know techniques for helping a student become "regulated" is called Handling Big Emotions. 
-This technique uses a five step script and an AI model could easily do this just like a paraprofessional. Here is the rubric.
-Step 1: Say "It seems like you are feeling upset."
-Step 2: Say "Are you feeling sad/angry/frustrated/scared [choose appropriate big emotion]."
-Step 3: Say: "Are you feeling frustrated because...[provide realistic exaplantion, such as 'there is too much work']"
-Step 4: Say: "Would you feel less frustrated if I crossed off some of the questions so you only have to do one question now?"
-Step 5: Say: "What else can I do to help you feel less frustrated?"
-Many neurodiverse students wear noise cancelling headphones and an AI model in a headphone could say these lines to a student, as well as respond appropriately. 
+# AI and Neurodiverse Students
+
+Neurodiverse students include those on the autism spectrum disorder (ASD) and/or with emotional-behavioral disorders.
+
+Autism is a communication disorder, usually exhibited as an inability to engage in spontaneous, turn-taking speech with another person. In extreme cases, a student with autism may engage in **scripting** — repeating a phrase over and over, such as a line from a song or a TV commercial. This behavior is obsessive, and the student may react with hostility if interrupted.
+
+An emotional-behavioral disorder is often characterized by extremes of sadness or anger. The student has difficulty maintaining a middle-ground emotional state. When sad, the student may curl up on the floor and ask, _“Am I a bad person?”_ When angry, the student may engage in physical aggression and yelling.
+
+I worked as a special education paraprofessional with this student population in elementary schools in Washington County, MN, for four years. I learned many techniques for helping students when they became **dysregulated** — caught in a negative emotional loop and unable to realistically interpret the impact of their emotions and behavior.
+
+Examples of dysregulation include pushing assigned work off the desk, breaking a pencil as a sign of refusal, or leaving the classroom without permission.
+
+One well-known technique for helping a student become regulated is called **Handling Big Emotions**. It uses a five-step script that an AI model could easily follow, just like a paraprofessional:
+
+1. _“It seems like you are feeling upset.”_
+2. _“Are you feeling sad/angry/frustrated/scared?”_
+3. _“Are you feeling frustrated because… [e.g., ‘there is too much work’]”_
+4. _“Would you feel less frustrated if I crossed off some questions so you only have to do one?”_
+5. _“What else can I do to help you feel less frustrated?”_
+
+Many neurodiverse students wear noise-canceling headphones. An AI model embedded in headphones could deliver this script and respond appropriately.
