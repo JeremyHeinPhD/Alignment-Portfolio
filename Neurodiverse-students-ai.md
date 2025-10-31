@@ -1,6 +1,6 @@
 > **Note:** This is a thought project based on my experience working with neurodiverse students.  
-> I am not a developer and do not have the technical skills to implement this idea.  
-> I’m sharing it to invite collaboration with developers or researchers interested in AI for education and emotional support.
+> I’m not a developer yet, but I’m actively learning and exploring how AI can support emotional regulation in education.  
+> I’m sharing this to invite collaboration with developers or researchers who want to help shape and build this idea.
 ---
 # AI and Neurodiverse Students
 
