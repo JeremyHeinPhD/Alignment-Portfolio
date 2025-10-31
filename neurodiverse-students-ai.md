@@ -1,7 +1,7 @@
-**Note:** This is a thought project based on my experience working with neurodiverse students.  
-I am not a developer and do not have the technical skills to implement this idea.  
-I’m sharing it to invite collaboration with developers or researchers interested in AI for education and emotional support.
-
+> **Note:** This is a thought project based on my experience working with neurodiverse students.  
+> I am not a developer and do not have the technical skills to implement this idea.  
+> I’m sharing it to invite collaboration with developers or researchers interested in AI for education and emotional support.
+---
 # AI and Neurodiverse Students
 
 Neurodiverse students include those on the autism spectrum disorder (ASD) and/or with emotional-behavioral disorders.
