@@ -50,3 +50,15 @@ One well-known technique for helping a student become regulated is called **Hand
 5. _“What else can I do to help you feel less frustrated?”_
 
 Many neurodiverse students wear noise-canceling headphones. An AI model embedded in headphones could deliver this script and respond appropriately — offering calm, consistent support in moments of emotional need.
+
+---
+### Personalized AI Model per Student
+
+Each student’s noise-canceling headphones are paired with a personalized AI model — similar to a chatbot — that remembers past conversations and adapts its responses over time. These models are designed to support emotional regulation, motivation, and engagement based on the student’s unique preferences and behavioral patterns.
+
+---
+### AI Integration with Chromebook or iPad
+
+Each student’s personalized AI model is paired with their individual Chromebook or iPad. These devices are used throughout the day for breaks, rewards, and learning activities. The case manager or paraprofessional has the ability to monitor what the student is doing on their device in real time. They can approve access to specific apps, block distracting content, or guide the student toward calming activities like drawing, music, or educational games.
+
+This oversight ensures that the AI model works in tandem with the adult’s judgment. For example, the AI might suggest a reward like watching a short video, but the adult can choose whether to allow it based on the student’s behavior, emotional state, or classroom context. This creates a flexible, responsive support system that blends technology with human care.
