@@ -15,6 +15,10 @@ Toby was a fifth grader who refused to attend any of his classes. I was told by 
 
 With Toby, I used a different kind of roleplay. At the end of each day, we went into a small, unused gym and created what he called “his restaurant.” Using frisbees, scooters, balls, and mats, Toby became the cook and server. I played the customer. This daily ritual gave him something to look forward to and helped regulate his behavior throughout the day. It was his space, his story, and his way of connecting.
 
+## Conclusion
+
+Max and Torin didn’t care who they pretended with — they cared that someone played the part. Whether it was a peer, me, or maybe even an AI model, what mattered was that the blueberry pie got ordered, or the math problem got solved. For them, the joy was in the persona, not the person. So when AI steps into a role with emotional consistency and social rhythm, it doesn’t need to be human — it just needs to play.
+
 ## Reflection: Persona Patterns in Practice
 
 In AI development, **Persona Patterns** are a well-known technique for crafting prompts that simulate specific roles or perspectives. They help models reason more effectively and empathetically by anchoring responses in context and identity.
@@ -29,7 +33,7 @@ Could we design AI systems that play roles with neurodiverse students — as stu
 
 I believe the answer is yes. And I believe my experience offers a small but meaningful blueprint for how.
 
-## 🤝 Questions I’d Like to Explore with Developers
+## Questions I’d Like to Explore with Developers
 
 I’m looking to collaborate with AI developers, researchers, or RLHF teams who are interested in applying large language models to support neurodiverse learners — especially through roleplay, persona-based prompting, and emotionally intelligent interaction.
 
