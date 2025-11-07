@@ -1,4 +1,4 @@
-## RLHF Case Studies Using Sociological Framework  
+## RLHF Case Studies Using A Sociological Framework  
 Dr. Jeremy Hein  
 PhD Sociologist | AI Trainer | Educator
 
