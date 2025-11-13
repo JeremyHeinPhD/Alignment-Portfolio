@@ -31,7 +31,7 @@ In **headphones designed with emotionally intelligent AI**, this Water Bottle mo
 
 At the end of the day, the teacher would score the effectiveness of each intervention. The AI would learn from that feedback — not just what happened, but what helped. Over time, it would become a quiet companion, attuned to Freddie’s rhythms, ready to support without overwhelming. 
 
-Fewer disruptions to Freddie's day would really benefit him, his classmates, teacher, case manager, and me--a special education paraprofessional who had to juggle the needs of Freddie and several other students all at the same time. As Andrew Ng says: "AI is task replacement, not job replacement." 
+Fewer disruptions to Freddie's day would really benefit him, his classmates, teacher, case manager, and me--a special education paraprofessional who had to juggle the needs of Freddie and several other students all at the same time. As Andrew Ng reminds us, "AI is task replacement, not job replacement." 
 
 ---
 
