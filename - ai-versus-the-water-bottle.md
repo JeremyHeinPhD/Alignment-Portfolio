@@ -3,7 +3,7 @@
 I met Freddie when he was in fourth grade and quickly observed that he loved real math — not multiplication or fractions, but algebra. When he felt stressed in class, which was very often, he’d ask his teacher if he could take a break in Jenny's small office across the hall. She was the special education case manager and my supervisor. Sometimes Freddie would just flee from his classroom without asking permission and bang on Jenny's door. Once inside, he’d walk straight to the whiteboard and start solving equations for *x* and *y*. No one told him to. Jenny and I knew he just needed the relief of feeling he was part of a system with known rules and procedures — something predictable, logical, and reliable.
 
 Freddie always wore headphones — lunch, recess, gym, art — because he was so frightened by loud noises. Loud sounds that most people could ignore were like a banshee wailing in his ear.
-One afternoon, he raced out of his classroom in tears and banged on the door of the case manager’s office. When she opened the door and asked what was the matter, Freddie said:
+One afternoon in the middle of the school year, he raced out of his classroom in tears and banged on Jenny's door. When she opened the door and asked what was the matter, Freddie said:
 
 > “My water bottle scared me.”
 
