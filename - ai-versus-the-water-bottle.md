@@ -1,6 +1,6 @@
 # “My Water Bottle Scared Me”
 
-Freddie loved math — not just multiplication or long division, but real algebra. He’d ask his teacher if he could take a break in the case manager’s office, and once inside, he’d walk straight to the whiteboard and start solving equations for *x* and *y*. No one told him to. He just **needed to feel he was part of a system with known rules and procedures** — something predictable, logical, and reliable.
+I met Freddie when he was in fourth grade and quickly observed that he loved real math — not multiplication or fractions, but algebra. When he felt stressed in class, which was very often, he’d ask his teacher if he could take a break in Jenny's small office across the hall. She was the special education case manager. Sometimes Freddie would just flee from his classroom without asking permission and bang on Jenny's door. Once inside, he’d walk straight to the whiteboard and start solving equations for *x* and *y*. No one told him to. He just **needed to feel he was part of a system with known rules and procedures** — something predictable, logical, and reliable.
 
 **He always wore headphones — lunch, recess, gym, art — because he was so frightened by loud noises.** Sudden sounds could unravel him in seconds.
 
