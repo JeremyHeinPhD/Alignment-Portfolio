@@ -2,7 +2,7 @@
 
 ## TL;DR
 
-Freddie, a fourth-grade student with severe autism, found comfort in algebra and fear in loud noises. This case study explores how emotionally intelligent AI — designed to detect sensory triggers and respond with personalized support — could help neurodivergent students like Freddie thrive. As Andrew Ng says, “AI is task replacement, not job replacement.”
+Freddie, a fourth-grade student with severe autism, found comfort in algebra and fear in loud noises. This case study explores how emotionally intelligent AI — designed to detect sensory triggers and respond with personalized support — could help neurodivergent students like Freddie thrive. As Andrew Ng says, “AI is task replacement, not job replacement” — and special ed paraprofessionals like me need all the help we can get.
 
 ---
 
