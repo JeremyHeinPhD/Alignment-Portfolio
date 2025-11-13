@@ -1,14 +1,14 @@
 # “My Water Bottle Scared Me”
 
-I met Freddie when he was in fourth grade and quickly observed that he loved real math — not multiplication or fractions, but algebra. When he felt stressed in class, which was very often, he’d ask his teacher if he could take a break in Jenny's small office across the hall. She was the special education case manager and my supervisor. Sometimes Freddie would just flee from his classroom without asking permission and bang on Jenny's door. Once inside, he’d walk straight to the whiteboard and start solving equations for *x* and *y*. No one told him to. Jenny and I knew he just needed the relief of feeling he was part of a system with known rules and procedures — something predictable, logical, and reliable.
+I met Freddie when he was in fourth grade and quickly observed that he loved real math — not multiplication or fractions, but algebra. When he felt stressed in class, which was very often, he’d ask his teacher if he could take a break in Jenny's small office across the hall. She was the special education case manager and my supervisor. Once inside, he’d walk straight to the whiteboard and start solving equations for *x* and *y*. No one told him to. Jenny and I knew he just needed the relief of feeling he was part of a system with known rules and procedures — something predictable, logical, and reliable.
 
-Freddie always wore headphones — lunch, recess, gym, art — because he had severe Autism Spectrum Disorder and he was frightened by loud noises. A loud sound that most people could ignore was like a banshee wailing in his ear. And that is why he wore noise-cancelling headphones all through the day, every day.
+Freddie always wore headphones — lunch, recess, gym, art — because he had severe Autism Spectrum Disorder and he was frightened by loud noises. A BANG or CRASH that most people could ignore were like a banshee wailing in his ear. And that is why he wore noise-cancelling headphones all through the day, every day.
 
 One afternoon in the middle of the school year, he raced out of his classroom in tears and banged on Jenny's door. When she opened the door and asked what was the matter, Freddie said:
 
 “My water bottle scared me.”
 
-It was one of those big, heavy metal bottles. A student had walked by and accidentally knocked it off his desk. The clang was sharp, sudden, and overwhelming. Freddie wasn’t just startled — he was terrified. The sound overloaded his senses and overwhelmed his ability to rationally evaluate what had just happened. But once we calmed him down — once the world felt reliable again — he picked up a marker and returned to the board. He started solving equations. 
+It was one of those big, heavy metal bottles. A student had walked by Freddie's desk and accidentally knocked it off. The clang was sharp, sudden, and overwhelming. Freddie wasn’t just startled — he was terrified. The sound overloaded his senses and overwhelmed his ability to rationally evaluate what had just happened. But once we calmed him down — once the world felt reliable again — he picked up a marker and returned to the board. He started solving equations. 
 
 Unfortunately, these incidents happened almost daily — distracting other students, adding stress for his teacher, interrupting groupss of students already in Jenny's office, and deepening Freddie’s own anxiety. On days when there was a subtitute teacher or Jenny was in a meeting, Freddie's challenges became even more severe.  
 
