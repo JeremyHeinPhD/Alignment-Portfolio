@@ -5,7 +5,7 @@ I met Freddie when he was in fourth grade and quickly observed that he loved rea
 Freddie always wore headphones — lunch, recess, gym, art — because he was so frightened by loud noises. Loud sounds that most people could ignore were like a banshee wailing in his ear.
 One afternoon in the middle of the school year, he raced out of his classroom in tears and banged on Jenny's door. When she opened the door and asked what was the matter, Freddie said:
 
-> “My water bottle scared me.”
+“My water bottle scared me.”
 
 It was one of those big, heavy metal bottles. A student had walked by and accidentally knocked it off his desk. The clang was sharp, sudden, and overwhelming. Freddie wasn’t just startled — he was undone. The sound overwhelmed him, and he couldn’t absorb the shock.
 
