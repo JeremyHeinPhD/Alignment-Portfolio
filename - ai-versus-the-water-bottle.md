@@ -1,5 +1,11 @@
 # “My Water Bottle Scared Me”
 
+## TL;DR
+
+Freddie, a fourth-grade student with severe autism, found comfort in algebra and fear in loud noises. This case study explores how emotionally intelligent AI — designed to detect sensory triggers and respond with personalized support — could help neurodivergent students like Freddie thrive. As Andrew Ng says, “AI is task replacement, not job replacement.”
+
+---
+
 I met Freddie when he was in fourth grade and quickly observed that he loved real math — not multiplication or fractions, but algebra. When he felt stressed in class, which was very often, he’d ask his teacher if he could take a break in Jenny's small office across the hall. She was the special education case manager and my supervisor. Once inside, he’d walk straight to the whiteboard and start solving equations for *x* and *y*. No one told him to. Jenny and I knew he just needed the relief of feeling he was part of a system with known rules and procedures — something predictable, logical, and reliable.
 
 Freddie always wore headphones — lunch, recess, gym, art — because he had severe Autism Spectrum Disorder and he was frightened by loud noises. A BANG or CRASH that most people could ignore were like a banshee wailing in his ear. And that is why he wore noise-cancelling headphones all through the day, every day.
