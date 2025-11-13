@@ -14,7 +14,7 @@ But once he calmed down — once the world felt reliable again — he picked up 
 
 ---
 
-## 🤖 AI for Freddie
+## AI for Freddie
 
 In **headphones designed with emotionally intelligent AI**, that moment wouldn’t be lost. The system would:
 
