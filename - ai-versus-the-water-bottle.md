@@ -16,7 +16,7 @@ Unfortunately, these incidents happened almost daily — distracting other stude
 
 ## AI for Freddie
 
-In **headphones designed with emotionally intelligent AI**, that moment wouldn’t be lost. The system would:
+In **headphones designed with emotionally intelligent AI**, this Water Bottle moment wouldn’t be lost. The system would:
 
 - **Detect the loud noise**, and recognize it as a potential sensory trigger.
 - **Reference teacher-designed rubrics** — structured guides that outline how to respond to specific events like sensory overload.
