@@ -3,7 +3,7 @@ Dr. Jeremy Hein
 PhD Sociologist | AI Trainer | Educator
 
 ## Overview  
-This repository showcases my applied work in AI training and alignment, drawing on 30+ years of sociological expertise. Since 2025, I’ve contributed to RLHF projects at Snorkel AI, Outlier AI, and Handshake AI — designing edge-case prompts, evaluating model reasoning, and applying inclusive pedagogy to improve large language models (LLMs). My approach integrates symbolic interactionism, comparative religion, and musicology to support neurodiverse learners and human-centered AI development.
+This repository showcases my applied work in AI training and alignment, drawing on 30+ years of teaching at the college level and tutoring for students K-12. Since 2025, I’ve contributed to RLHF projects at Snorkel AI, Outlier AI, and Handshake AI — designing edge-case prompts, evaluating model reasoning, and applying inclusive pedagogy to improve large language models (LLMs). My approach integrates symbolic interactionism, comparative religion, and musicology to support neurodiverse learners and human-centered AI development.
 
 ## Contents  
 - Case studies applying RLHF principles to support autistic and neurodiverse learners  
