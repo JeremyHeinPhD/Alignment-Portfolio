@@ -1,4 +1,4 @@
-# Persona Patterns and the Neurodiverse Student  
+# Persona Patterns and Neurodiverse Students  
 *Names and identifying details have been changed to protect privacy.*
 
 During my four years as a Special Education Paraprofessional in Washington County, Minnesota, I worked with dozens of neurodiverse students. Two of the most behaviorally complex — and most memorable — were **Monty** and **Toby**.
