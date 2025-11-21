@@ -1,9 +1,17 @@
 # Persona Patterns and Neurodiverse Students  
+## Persona Patterns
+
+In AI development, **Persona Patterns** are a well-known technique for crafting prompts that simulate specific roles or perspectives. They help models reason more effectively and empathetically by anchoring responses in context and identity.
+
+My experiences with three special education students who I call AJ, Monty, and Toby suggests that Persona Patterns can also be a powerful tool for working with neurodiverse students. By allowing students to inhabit roles that give them agency, structure, and creative expression, we can foster emotional regulation, build trust, and create meaningful engagement.
+
+**Symbolic Interaction Theory helps explain why this works.** George Herbert Mead argued that very young children learn to understand themselves and others through imitation and role-taking. When Monty played the teacher and Toby ran his restaurant, they weren’t just pretending — they were stepping into adult roles that gave them a framework for interaction. This was a form of **play therapy**: they were able to communicate well with me only when they used their imaginations to become someone else. Through these roles, they virtually became different people — confident, expressive, and socially engaged.
+
+# Persona Case Studies
+
 *Names and identifying details have been changed to protect privacy.*
 
 During my four years as a Special Education Paraprofessional in a suburb of St Paul, I worked with dozens of neurodiverse students. Three of the most behaviorally complex — and most memorable — were all in one school in adjacent rooms: AJ, Monty, and Toby.
-
-# Persona Case Studies
 
 ## AJ's Lab
 
@@ -94,14 +102,6 @@ On days when he wasn’t too disruptive, in the late afternoon Toby and I went i
 AJ, Max, and Toby didn’t care who they pretended with — they cared that someone played the part. Whether it was a peer, me, or maybe even an AI model, what mattered was that the blueberry pie got ordered, or the math problem got solved. For them, the joy was in the persona, not the person. So when AI steps into a role with emotional consistency and social rhythm, it doesn’t need to be human — it just needs to play.
 
 ---
-
-## Reflection: Persona Patterns in Practice
-
-In AI development, **Persona Patterns** are a well-known technique for crafting prompts that simulate specific roles or perspectives. They help models reason more effectively and empathetically by anchoring responses in context and identity.
-
-My experience with Monty and Toby suggests that Persona Patterns can also be a powerful tool for working with neurodiverse students. By allowing students to inhabit roles that give them agency, structure, and creative expression, we can foster emotional regulation, build trust, and create meaningful engagement.
-
-**Symbolic Interaction Theory helps explain why this works.** George Herbert Mead argued that very young children learn to understand themselves and others through imitation and role-taking. When Monty played the teacher and Toby ran his restaurant, they weren’t just pretending — they were stepping into adult roles that gave them a framework for interaction. This was a form of **play therapy**: they were able to communicate well with me only when they used their imaginations to become someone else. Through these roles, they virtually became different people — confident, expressive, and socially engaged.
 
 ## Proposal: AI Roleplay for Neurodiverse Support
 
