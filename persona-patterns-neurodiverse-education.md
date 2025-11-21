@@ -80,13 +80,20 @@ taken down. But for a brief time, he really did have his own office.
 
 ## Toby's Restaurant
 
-Toby was a fifth grader who refused to attend any of his classes. I was told by a teacher that his refusal to do work had been going on for years. He spent the entire day in the **Special Education Resource Room**, and after repeatedly attacking a special education supervisor, **his mother decided to home school him**.
+It was about the second week of the new school year when Toby opened his doughnut shop at his desk—an office-styled workspace with three high walls. Each day he would tape a few more pages to the outside of the walls, each showcasing a drawing and name for one of Toby’s creations. The pancake doughnut with maple syrup filling. The birthday cake doughnut with edible candle. The sandwich doughnut for those who were really hungry. Once he asked me to suggest an addition to the menu: I was delighted and recommended the “hockey puck doughnut,” recalling the black and white frosting cookies my grandmother would bake for me as a treat. Toby considered that thoughtfully for a moment, but concluded: “It won’t look like a hockey puck once I put a hole in it.”
 
-With Toby, I used a different kind of roleplay. At the end of each day, we went into a small, unused gym and created what he called “his restaurant.” Using frisbees, scooters, balls, and mats, Toby became the cook and server. I played the customer. This daily ritual gave him something to look forward to and helped regulate his behavior throughout the day. It was his space, his story, and his way of connecting.
+How did Toby balance running his doughnut shop and going to class? Simple. He almost never went to class and almost never did the work we asked him to complete in our special education resource room. Once when I had coaxed him into joining the other students in the music room, he fled after a few minutes. As the other kids began strumming their guitars, the teacher sidled up to me and whispered: “Toby has gone to about three classes since kindergarten.”
 
+Toby had severe autism: he never looked at people directly, unless he was angry, and could not read body language nor facial expression nor voice tone. He was solidly built with square shoulders and square jaw. But he really knew how to run a restaurant. At least that’s what he told me the second week of school when I invited him to go to art: "Isn’t going to happen. I'm starting a donut shop and there are going to be a lot of customers when I open up."
+
+Despite his appealing imagination, the school principal frequently visited our special ed resource room because Toby could become aggressive toward staff and other students. Then the case manager would use the walkie-talkie system to ask for help. Once, I had to request “back up” on my walkie-talkie (our code word for aggression that had become dangerous) because the case manager was too busy staying out of range of Toby’s swinging fists.
+
+On days when he wasn’t too disruptive, in the late afternoon Toby and I went into a small, unused space called “the old gym” and created what he called “his restaurant.” It was meant to be a reward for good behavior. This daily ritual gave him something to look forward to and helped regulate his behavior throughout the day. It was his space, his story, and his way of connecting. Using frisbees for plates and piled-up gymnastic mats for tables, we took over a corner of the space and Toby became the cook and server. I played the customer. “A slice of blueberry pie” I said each time, and Toby would scurry off to his “kitchen” only to return with a glum look: “Sorry, we’re out of that today.” Some of the other special ed students who frequented the “old gym” would often take a seat at a “table” and place an order too. “Hamburger and fries.” “Guac and chips.” Toby scurried about, with an intense, determined look on his face. He had me convinced that he really could handle what the restaurant industry calls “a fast-paced, customer service-oriented environment.”
 ## Conclusion
 
 AJ, Max, and Toby didn’t care who they pretended with — they cared that someone played the part. Whether it was a peer, me, or maybe even an AI model, what mattered was that the blueberry pie got ordered, or the math problem got solved. For them, the joy was in the persona, not the person. So when AI steps into a role with emotional consistency and social rhythm, it doesn’t need to be human — it just needs to play.
+
+---
 
 ## Reflection: Persona Patterns in Practice
 
