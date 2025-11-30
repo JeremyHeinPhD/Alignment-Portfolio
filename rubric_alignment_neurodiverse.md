@@ -2,7 +2,7 @@
 
 ---
 
-When I retired from university teaching after 28 years, I became a part-time after-school tutor at a well-known tutoring center. I tutored hundreds students over my five years of work (2018-2023) but **Patrick Delaney** had the biggest impact one me because of what he taught me about the learning process of neurodiverse students.
+When I retired from university teaching after 28 years, I became a part-time after-school tutor at a well-known tutoring center. I tutored hundreds students over my five years of work (2018-2023) but **Patrick Delaney** had the biggest impact on me because of what he taught me about the learning process of neurodiverse students.
 
 I first spoke with Patrick via Zoom. His mother wanted to assess our fit as teacher and student. To make conversation, I asked Patrick if he had any brothers or sisters. He was anoyed by his Mom's suggestion that he needed a tutor and gavee me a surly reply: “I have as many as a cyclops does eyes.” He was only nine years old, and I knew immediately we would get along well.
 
