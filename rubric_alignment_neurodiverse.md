@@ -22,5 +22,5 @@ My role was highly structured and consistent, often resembling the kind of feedb
 
 Patrick’s story suggests that RLHF-informed AI tutors, trained to recognize and support learner-generated schemas, could one day provide scalable, personalized support for neurodiverse students — especially those underserved by traditional education systems. His progress was not just academic; it was a testament to the power of structured, human-centered feedback to unlock potential where others had given up.
 
-No AI education model will ever be able to replicate my work with Patrick. But it could provide a comparable educational service at much lower cost. 
+No AI education model will ever be able to replicate my work with Patrick. But it could provide a comparable educational service at much lower cost and thus make tutoring with rubrics more accessible. 
 ---
