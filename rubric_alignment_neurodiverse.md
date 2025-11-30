@@ -1,5 +1,4 @@
-> 📘 **Rubric-Based Alignment for a Neurodiverse Learner**  
-> _Click the copy icon in the top-right corner to reuse or adapt this story in your own repo._
+> 📘 **Rubric-Based Alignment for a Neurodiverse Learner** 
 
 ---
 
