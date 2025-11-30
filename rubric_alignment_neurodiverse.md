@@ -1,4 +1,4 @@
-> 📘 **Rubric-Based Alignment for a Neurodiverse Learner** 
+> **Rubric-Based Alignment for a Neurodiverse Learner** 
 
 ---
 
