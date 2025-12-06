@@ -2,24 +2,25 @@
 Dr. Jeremy Hein  
 PhD Sociologist | AI Trainer | Educator
 
-## Overview  
-This repository showcases my applied work in AI training and alignment, drawing on 30+ years of research and teaching. Since 2025, I’ve contributed to RLHF projects at Snorkel AI, Outlier AI, and Handshake AI — designing edge-case prompts, evaluating model reasoning, and applying inclusive pedagogy to improve large language models (LLMs). My approach to human-centered AI integrates symbolic interaction theory with the perspective of neurodiverse learners.
+## Overview
+This repository showcases my applied work in AI training and alignment, building on three decades of research and teaching. Since 2025, I have contributed as a researcher and practitioner to RLHF projects at Snorkel AI, Outlier AI, and Handshake AI — designing edge-case prompts, evaluating model reasoning, and applying inclusive pedagogy to improve large language models (LLMs). My approach to human-centered AI integrates symbolic interaction theory with the perspectives of neurodiverse learners.
 
-## Contents  
-- Case studies applying RLHF principles to support autistic and neurodiverse learners  
-- Rubric-based feedback generators simulating empathetic instructional responses  
-- Prompt design experiments grounded in sociology, pedagogy, and cultural analysis  
+## Contents
+- Case studies demonstrating RLHF principles in support of autistic and neurodiverse learners  
+- Rubric-based feedback generators that simulate empathetic instructional responses  
+- Prompt design experiments informed by sociology, pedagogy, and cultural analysis  
 
-## Why It Matters  
-This work explores how AI systems can be trained and evaluated using humanistic rubrics — especially in emotionally complex or educational contexts. It contributes to broader conversations around AI alignment, inclusive instruction, and symbolic reasoning in LLMs.
+## Why It Matters
+This work explores how large language models can be trained and evaluated using humanistic rubrics — especially in emotionally complex or educational contexts. By centering learner-generated schemas and inclusive pedagogy, it contributes to broader conversations around AI alignment, inclusive instruction, and symbolic reasoning in LLMs.
 
-## Credentials  
-- NSF-funded PhD in Sociology, Northwestern University  
-- 1,500+ citations on Google Scholar  
-- Published author with Russell Sage Foundation & Twayne Publishers  
-- Former professor of sociology (1989–2017)  
+## Credentials
+- PhD in Sociology, Northwestern University (NSF-funded)  
+- Author of peer-reviewed publications with 1,500+ citations on Google Scholar  
+- Published books with Russell Sage Foundation and Twayne Publishers  
+- Professor of Sociology (1989–2017)  
+- Tutor and special education paraprofessional (2018–2025)  
 - Contributor to RLHF projects at Snorkel AI, Outlier AI, and Handshake AI
-
+  
 ## Contact  
 Interested in collaborating on RLHF, prompt design, or inclusive AI training?  
 Reach me via [LinkedIn](https://www.linkedin.com/in/jeremyhein) or email: heinj@uwec.edu
