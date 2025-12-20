@@ -5,29 +5,88 @@ This article proposes student-generated rubrics as a new benchmark for evaluatin
 My professional focus is on AI alignment and evaluation: designing tests that reveal reasoning gaps,  
 biases, and failures in large models. I have contributed to benchmark projects with Snorkel AI, Outlier AI,  and Handshake AI, and I am currently seeking remote contract collaborations with labs and companies  interested in developing learner-centered evaluation frameworks. If your team is exploring how to  measure alignment in education or beyond, I welcome opportunities to collaborate.
 
+# Patrick's Rubric Breakthrough: AI Scalability Meets the Siphonophore
+
+## AI and Education
+
+Rich Sutton's *Bitter Lesson* argues that the most powerful advances in AI come from general methods that scale with computation, not from human-designed, domain-specific knowledge. While this principle has driven macro-level breakthroughs in games, speech, and large language models, I use an edge case of a neurodiverse student to argue that to be successful in education, AI must include domain-specific knowledge about pedagogy — from students.
+
+I describe working as a reading tutor with a student on the autism spectrum who was a genius but refused to use the iPad at the tutoring center where I worked. His breakthrough came not from customized tutorials on a state-of-the-art iPad, but from individualized scaffolds — rubric prompts he invented and refined with my human feedback. His case shows that in the field of reading and literacy, human-centered AI must learn to detect and scaffold learner-generated structures to align with evolving micro-level cognitive dimensions revealed by users.
+
+---
+
 ## Introduction: Teaching, Tutoring, and the Limits of Technology
-After I retired from 28 years of teaching at a medium-sized public university, I took a job as an after-school tutor at a leading tutoring center that helped students below grade level improve their math, reading, and writing skills. That center used what at the time was a state-of-the-art iPad. Each student used their own iPad with customized learning instructions based on the assessment tests they took when they first enrolled. The modules were all brilliantly designed with easy-to-understand text and wonderful graphic design. The first module was a guided practice with the tutor as teacher, followed by several independent practices where student and tutor interacted when the student needed help, and finally a mastery test that the student took independently. This educational design worked wonders for many students and was far better than the way most of them learned in classes of 25 students in their schools with one teacher up front teaching the same way for all 25 students. But the iPad was just about useless when I began tutoring a student I will call Patrick Delaney.
 
-I first spoke with Patrick via Zoom. His mother wanted to assess our fit as teacher and student. To make conversation, I asked Patrick if he had any brothers or sisters. He was annoyed by his mom's suggestion that he needed a tutor and gave me a surly reply: "I have as many as a cyclops does eyes." He was only nine years old, and given my lifelong interest in mythology and folklore, I knew immediately we would get along well.
+After retiring from 28 years as a sociology professor, I took a job as an after-school tutor at a leading center that helped struggling K-12 students improve their math, reading, and writing skills. The center used what was then a state-of-the-art iPad. Each student had customized learning modules based on assessment tests: guided practice, semi-independent work, and mastery tests. For many students, this design worked wonders.
 
-## Patrick’s Challenges and Breakthrough
-Despite his obvious intellect and creative way of thinking, Patrick was in a Level 4 special education setting — the most restrictive type of public school environment for special education students. This specialized school served children whose behavioral, emotional, or cognitive needs were so intensive that they could not be met in mainstream public school. Patrick's placement there reflected the severity of his challenges. He had a diagnosis of extreme autism, which in his case meant a preoccupation with his own thoughts and resistance to talking about anything but his own thoughts. And that is why Patrick refused to learn phonics from the iPad I presented to him in our first tutoring lesson at the center. About 2 million children in the U.S. have an autism diagnosis.
+But when I began tutoring a student I will call **Patrick Delaney**, the iPad was useless — he had severe autism and his own way of thinking. I cooperated with his unique cognitive style and in the end he learned to read. That may have been a "bitter lesson" for the iPad, but it is a revelation for AI in education.
 
-The tutoring center assessment of Patrick stated that despite being in 4th grade, his reading ability was that of a student in kindergarten. His parents had been told by his school that it had done everything it could to improve his literacy. That might have been true, but it still cost the school district approximately $90,000 per year to educate Patrick in this Level 4 setting. Patrick's parents — both highly educated professionals — refused to accept the school's conclusion and paid the tutoring center I worked at about $100 for a 50-minute private lesson so I could try to teach Patrick to read. I estimate that his parents spent a total of $30,000 for our one-on-one tutoring over the three years I tutored him at the center (I continued tutoring him privately after his parents decided to use this money for therapy sessions for Patrick). The fact that a single year of school and out-of-school tutoring for Patrick cost about $100,000 underscores both the intensity of support he required and the urgent need for scalable, personalized interventions from AI education so more students can achieve the breakthrough that Patrick did.
+Using Patrick as an edge case, I argue that advances in AI literacy tutoring must operate like reinforcement learning with human feedback — except here the feedback comes from the student. Each "fun fact" they ask for as well as each refusal to follow instructions is a signal. The full potential for AI education will depend on systems that can tune themselves to these micro-level feedback loops.
 
-Patrick's breakthrough came not through traditional instruction, but through his passion for creating what he called "systems." These were structured rubrics he designed to organize information about topics he loved — starting with animals. His system included categories like location, diet, size, appearance, species viability, and fun facts.
+---
 
-I used Siri on an iPad to look up facts about each animal. Patrick's parents didn't have iPhones, so he was amazed at how easily we could find information online. And because he was so invested in his system, he was willing to copy words into our handwritten rubric — and over time, he learned to read those words.
+## Patrick's Challenges
 
-The first animal Patrick chose for us to study together was a siphonophore — a deep-sea organism made up of many smaller, specialized individuals called zooids that function together as a single entity. Though they resemble jellyfish, siphonophores are actually colonial animals — each part responsible for a specific task like feeding, movement, or reproduction. Patrick already knew a remarkable amount about them by heart. From that first day, I knew Patrick was a genius — someone whose thoughts moved quickly and fluidly, but who was deeply frustrated by the slow, mechanical process of learning to read through phonics, such as "the letter a has a sound like when you say apple."
+Patrick was in a Level 4 special education setting — the most restrictive type of public school environment. His diagnosis of extreme autism meant a preoccupation with his own thoughts and resistance to talking about anything else. That is why Patrick refused to learn phonics from the iPad in our first tutoring lesson.
 
-Over time, Patrick applied this rubric logic to other interests: Minecraft, Star Wars, How to Train Your Dragon, and more. Each topic became a scaffold for literacy, research, and emotional regulation. Across more than 300 sessions, Patrick progressed from complete avoidance — including moments of dysregulation like pushing our papers onto the floor — to near-grade-level reading ability.
+The tutoring center assessment stated that despite being in 4th grade, his reading ability was that of a kindergartener. His parents had been told by his school that it had done everything it could to improve his literacy.
 
-## Implications for AI and Education
-Rich Sutton's "Bitter Lesson" argues that the most powerful advances in AI come from general methods that scale with computation, not from human-designed, domain-specific knowledge. While this principle has driven macro-level breakthroughs in games, speech, and large language models, Patrick's story offers a complementary insight at the micro-level of user experience. Patrick's breakthrough came not from scalable content delivery as represented by the customized tutorials on a state-of-the-art iPad, but from individualized scaffolds — rubric prompts he invented and refined with human feedback. His case shows that human-centered AI must learn to detect and scaffold learner-generated structures, tuning its parameters to align with evolving cognitive dimensions like "fun facts" or "diet." Scalable AI must not only generalize across data, but also personalize across minds.
+---
 
-## Conclusion
-Patrick’s story suggests that reinforcement learning with human feedback (RLHF)-informed AI tutors, trained to recognize and support learner-generated schemas, could one day provide scalable, personalized support for neurodiverse students — especially those underserved by traditional education systems. His progress was not just academic; it was a testament to the power of structured, human-centered feedback to unlock potential where others had given up.
+## I Failed the Siphonophore Benchmark
+
+On our first day, I asked Patrick what he enjoyed learning about. He said: **"animals."** When I asked him to pick one, he said: **"siphonophore."**
+
+I thought: *Is that even a real animal?* But Patrick explained it to me: siphonophores are like jellyfish that live in very deep parts of the Pacific Ocean. They combine together from smaller, specialized individuals to form a colony. Each part is responsible for a specific task like feeding, movement, or reproduction.
+
+---
+
+## Patrick's Breakthrough
+
+Patrick already knew a remarkable amount of facts about the real world. His recall and thoughts moved so quickly that learning to read at school and even from the iPad was deeply frustrating by comparison: a slow, mechanical process of primitive phonics lessons.
+
+So I agreed to do what Patrick called **"research"** on animals for the first 15 minutes of our session if he would then do a lesson on the iPad. By our second lesson, I saw the pattern: he learned more about writing words from our "research" than from the iPad lessons. He particularly detested analogies like *oak is to acorn, like pine is to ...*
+
+My breakthrough with Patrick came not through traditional instruction, but through his passion for creating what he called **"systems."** These were structured rubrics he designed to organize information about topics he loved — starting with animals. His system included categories like:
+
+- Location  
+- Diet  
+- Size  
+- Appearance  
+- Species viability  
+- Fun facts  
+
+We started with siphonophore and ended with capybara, which I learned is the largest rodent in the world (Patrick already knew that).
+
+---
+
+## Rubric Literacy
+
+During our lessons, I used Siri on an iPad to look up facts about each animal. Patrick was amazed at how easily we could find information online. Because he was invested in his system, he was willing to copy words into our handwritten rubric — and over time, he learned to read those words.
+
+After dozens of animal rubrics, Patrick proposed other topics:  
+- Minecraft creatures and places  
+- Star Wars heroes, spaceships, weapons, and droids  
+- Dragons from *How to Train Your Dragon*  
+- Mario characters  
+
+Each topic became a scaffold for literacy, research, and emotional regulation. Across more than 300 sessions, Patrick progressed from complete avoidance — including moments of dysregulation like pushing papers onto the floor — to near-grade-level reading ability.
+
+---
+
+## Conclusion: Scaling Up From 1 Patrick to Patrick + 1 Other Student
+
+About 2 million children in the U.S. have an autism diagnosis. They are among 7.5 million special education students, each with their own Individual Education Plan. For educators, scalability means lowering the cost of individualized support so students like Patrick can learn in small groups rather than only through expensive one-on-one sessions.
+
+Patrick’s parents spent about **$30,000** for three years of one-on-one tutoring. This underscores both the intensity of support he required and the urgent need for scalable, personalized interventions from AI education.
+
+**Vision for AI Tutoring:**  
+- Each student has individualized rubrics around their passions.  
+- AI handles structured prompts and feedback loops.  
+- Human tutors provide empathy and oversight.  
+- Costs are reduced, accessibility increased.  
+
+**Example Dialogue:**
 
 While no AI education model can fully replicate the human relationship I had with Patrick, it could provide a comparable educational service at much lower cost and thus make tutoring with rubrics more accessible. In this way, scalable AI might one day resemble the siphonophore itself — many specialized parts working together seamlessly to support the whole learner.
 ---
