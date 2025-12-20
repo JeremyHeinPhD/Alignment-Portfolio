@@ -14,7 +14,7 @@ I describe working as a reading tutor with a student on the autism spectrum who 
 
 ---
 
-## Introduction: Teaching, Tutoring, and the Limits of Technology
+## Teaching, Tutoring, and the Limits of Technology
 
 After retiring from 28 years as a sociology professor, I took a job as an after-school tutor at a leading center that helped struggling K-12 students improve their math, reading, and writing skills. The center used what was then a state-of-the-art iPad. Each student had customized learning modules based on assessment tests: guided practice, semi-independent work, and mastery tests. For many students, this design worked wonders.
 
