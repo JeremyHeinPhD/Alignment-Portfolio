@@ -1,6 +1,6 @@
 ## RLHF Case Studies Using A Sociological Framework  
-Dr. Jeremy Hein  
-PhD Sociologist | AI Trainer | Educator
+Jeremy Hein  
+PhD Sociologist | AI Alignment and Evaluation Specialist | 
 
 ## Overview
 This repository showcases my applied work in AI training and alignment, building on three decades of research and teaching. Since 2025, I have contributed as a researcher and practitioner to RLHF projects at Snorkel AI, Outlier AI, and Handshake AI — designing edge-case prompts, evaluating model reasoning, and applying inclusive pedagogy to improve large language models (LLMs). My approach to human-centered AI integrates symbolic interaction theory with the perspectives of neurodiverse learners.
