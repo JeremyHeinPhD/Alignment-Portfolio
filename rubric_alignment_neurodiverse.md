@@ -1,5 +1,10 @@
 # PATRICK'S RUBRIC BREAKTHROUGH: AI SCALABILITY MEETS THE SIPHONOPHORE
 
+Author’s Note  
+This article proposes student-generated rubrics as a new benchmark for evaluating AI literacy tutors.  
+My professional focus is on AI alignment and evaluation: designing tests that reveal reasoning gaps,  
+biases, and failures in large models. I have contributed to benchmark projects with Snorkel AI, Outlier AI,  and Handshake AI, and I am currently seeking remote contract collaborations with labs and companies  interested in developing learner-centered evaluation frameworks. If your team is exploring how to  measure alignment in education or beyond, I welcome opportunities to collaborate.
+
 ## Introduction: Teaching, Tutoring, and the Limits of Technology
 After I retired from 28 years of teaching at a medium-sized public university, I took a job as an after-school tutor at a leading tutoring center that helped students below grade level improve their math, reading, and writing skills. That center used what at the time was a state-of-the-art iPad. Each student used their own iPad with customized learning instructions based on the assessment tests they took when they first enrolled. The modules were all brilliantly designed with easy-to-understand text and wonderful graphic design. The first module was a guided practice with the tutor as teacher, followed by several independent practices where student and tutor interacted when the student needed help, and finally a mastery test that the student took independently. This educational design worked wonders for many students and was far better than the way most of them learned in classes of 25 students in their schools with one teacher up front teaching the same way for all 25 students. But the iPad was just about useless when I began tutoring a student I will call Patrick Delaney.
 
