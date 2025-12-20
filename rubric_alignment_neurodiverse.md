@@ -1,9 +1,7 @@
 # PATRICK'S RUBRIC BREAKTHROUGH: AI SCALABILITY MEETS THE SIPHONOPHORE
 
 Author’s Note  
-This article proposes student-generated rubrics as a new benchmark for evaluating AI literacy tutors.  
-My professional focus is on AI alignment and evaluation: designing tests that reveal reasoning gaps,  
-biases, and failures in large models. I have contributed to benchmark projects with Snorkel AI, Outlier AI,  and Handshake AI, and I am currently seeking remote contract collaborations with labs and companies  interested in developing learner-centered evaluation frameworks. If your team is exploring how to  measure alignment in education or beyond, I welcome opportunities to collaborate.
+This article proposes student-generated rubrics as a new benchmark for evaluating AI literacy tutors.  My professional focus is on AI alignment and evaluation: designing tests that reveal reasoning gaps,  biases, and failures in large models. I have contributed to benchmark projects with Snorkel AI, Outlier AI,  and Handshake AI, and I am currently seeking remote contract collaborations with labs and companies  interested in developing learner-centered evaluation frameworks. If your team is exploring how to  measure alignment in education or beyond, I welcome opportunities to collaborate.
 
 
 # PATRICK'S RUBRIC BREAKTHROUGH: AI SCALABILITY MEETS THE SIPHONOPHORE
