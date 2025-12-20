@@ -40,12 +40,19 @@ When Patrick's parents — both highly educated professionals — refused to acc
 AI education that personalizes instruction would also enable me to tutor more than one student at a time. I can easily imagine that AI in the iPad I used would allow me to tutor two or more students at the same time. Each student would have individualized rubrics around their passions, with a common literacy focus. AI would handle structured prompts and feedback loops, while I provided empathy and oversight. Outside of class, I could review their rubric work and make personalized revisions, ensuring each learner’s journey stayed authentic. This hybrid model would dramatically reduce costs and increase accessibility, making individualized tutoring scalable for neurodiverse learners. For example,
 
 > AI: What do you like learning about?
+
 > Student: Football.
+
 > AI: Do you have a favorite team?
+
 > Student: The Philadelphia Eagles.
+
 > AI: Great—let’s explore. Do you want to learn about the team’s history or the city itself?
+
 > Student: I already know the history. Where’s Philly?
+
 > AI: Philadelphia is in Pennsylvania. It’s close to other cities with NFL teams, like the New York Giants, the Washington Commanders, and the Baltimore Ravens. I’ll write a fun fact about each team for you to read.
+
 > Student: Okay, let’s do that, but it better be funny!
 
 ---
