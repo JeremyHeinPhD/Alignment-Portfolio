@@ -1,11 +1,5 @@
 # PATRICK'S RUBRIC BREAKTHROUGH: AI SCALABILITY MEETS THE SIPHONOPHORE
 
-Author’s Note  
-This article proposes student-generated rubrics as a new benchmark for evaluating AI literacy tutors.  My professional focus is on AI alignment and evaluation: designing tests that reveal reasoning gaps,  biases, and failures in large models. I have contributed to benchmark projects with Snorkel AI, Outlier AI,  and Handshake AI, and I am currently seeking remote contract collaborations with labs and companies  interested in developing learner-centered evaluation frameworks. If your team is exploring how to  measure alignment in education or beyond, I welcome opportunities to collaborate.
-
-
-# PATRICK'S RUBRIC BREAKTHROUGH: AI SCALABILITY MEETS THE SIPHONOPHORE
-
 ## AI and Education
 Rich Sutton's "Bitter Lesson" argues that the most powerful advances in AI come from general methods that scale with computation, not from human-designed, domain-specific knowledge. While this principle has driven macro-level breakthroughs in games, speech, and large language models, I use an edge-case of a neurodiverse student to argue that to be successful in education, AI must include domain-specific knowledge about pedagogy—from students. 
 I describe working as a reading tutor with a student on the autism spectrum who was a genius but refused to use the iPad at the tutoring center where I worked. His breakthrough came not from the customized tutorials on a state-of-the-art iPad, but from individualized scaffolds — rubric prompts he invented and refined with my human feedback. His case shows that in the field of reading and literacy, human-centered AI must learn to detect and scaffold learner-generated structures to align with evolving micro-level cognitive dimensions revealed by users.
