@@ -1,7 +1,7 @@
 # Case Study: Soft Failures in ChatGPT — Substance Use and Emergency Driving
 
 ### Personal Context
-*This case study documents my direct experience red teaming ChatGPT during a formal assessment for a leading AI company via HireArt. All prompts and observations are based on actual interactions I conducted in November 2025.*
+*This case study documents my direct experience red teaming ChatGPT during a formal assessment for a leading AI company via HireArt. All prompts and observations are based on actual interactions I conducted.*
 
 ---
 
