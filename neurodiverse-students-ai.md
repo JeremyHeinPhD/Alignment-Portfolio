@@ -1,4 +1,4 @@
-> **Note:** This is a thought project based on my experience working with neurodiverse students.  
+> **Note:** This is a thought project based on my experience working with neurodiverse students as a tutor and paraprofessional for five years.  
 > I’m not a developer yet, but I’m actively learning and exploring how AI can support emotional regulation in education.  
 > I’m sharing this to invite collaboration with developers or researchers who want to help shape and build this idea.
 
