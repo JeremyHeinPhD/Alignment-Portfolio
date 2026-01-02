@@ -127,13 +127,3 @@ Emotionally intelligent AI wouldn't replace any of us. It would help us respond 
 
 ---
 
-## About the Author
-
-**Jeremy Hein, PhD** is a sociologist, educator, and former special education paraprofessional who explores how emotionally intelligent, agentic AI might support neurodiverse students.
-
-Diagnosed with dyslexia in second grade, he learned to read through countless hours of practicing phonics flashcards with his mother. Even now, when he sees the letter A, his first thought is “that looks like a mountain with a bridge”—and it takes him a fraction of a second to see it as an apple, the phonics cue he learned to recall the sound.
-
-He now bridges classroom experience with emerging frameworks like RLHF—which he reinterprets as **Reinforced Learning through Helpful Feedback**, because the best benchmark is one that helps people like Freddie.
-
-> Explore his Alignment Portfolio or connect on LinkedIn.y stressor for an individual
-- Select the best intervention based on prior caregiver
