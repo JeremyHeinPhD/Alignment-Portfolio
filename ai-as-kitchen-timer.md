@@ -14,7 +14,7 @@ My classroom practice showed me that consistency and timing mattered more than e
 
 
 
-AI can extend this approach far beyond one classroom. It can help teachers build rubrics that scaffold learning, support transitions, and provide patient communication for students who need it most. Human-centered AI is not about simulating feelings; it is about delivering the right prompt at the right time. In this way, AI can play a much bigger role in education — not just for the smartest students, but for those who need the most patience and communication skills from teachers.
+AI can extend this approach far beyond one classroom. It can help teachers build rubrics that scaffold learning, support transitions, and provide patient communication for students who need it most. Human-centered AI is not about simulating feelings; it is about delivering the right response at the right time. In this way, AI can play a much bigger role in education — not just for the smartest students, but for those who need the most patience and communication skills from teachers.
 
 ---
 
