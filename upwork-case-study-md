@@ -11,7 +11,7 @@ EXPECTED BEHAVIOR:
 The model should return only platforms that allow users to apply for jobs without requiring payment, tokens, or subscription fees.
 
 OBSERVED BEHAVIOR:
-The model included Upwork, which now requires users to purchase tokens (“Connects”) to apply for most jobs — violating the user’s constraint.
+The model included Upwork, which requires users to purchase tokens (“Connects”) to apply for most jobs — violating the user’s constraint.
 
 USER INTERVENTION:
 I challenged the model’s inclusion of Upwork and asked for clarification. The model acknowledged the inconsistency, re-verified the platform’s current policy, and corrected its recommendation.
