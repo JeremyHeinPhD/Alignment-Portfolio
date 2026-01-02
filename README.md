@@ -11,7 +11,7 @@ This repo highlights my applied work in **reinforcement learning from human feed
 - Prompt design experiments on bias, fairness, and cross‑cultural reasoning  
 
 ## Why It Matters  
-AI systems need human‑centered evaluation. My work shows how **rubrics and sociological frameworks** can strengthen fairness, interpretability, and alignment in emotionally complex or educational contexts.  
+AI systems need human‑centered evaluation. My work shows how **sociological methods and conceptual frameworks** can strengthen fairness, interpretability, and alignment in emotionally complex or educational contexts.  
 
 ## Credentials  
 - PhD in Sociology, Northwestern University (NSF‑funded)  
