@@ -1,8 +1,7 @@
 # Case Study: Correcting AI Misclassification of Improvised Vocal Style
 
 **Project**: Outlier AI – Music Evaluation Project  
-**Role**: AI Trainer  
-**Date**: November 2025  
+**Role**: AI Trainer    
 **Time to Completion**: 10 minutes  
 **Skills Applied**: Music genre classification, sociology of culture, ethnomusicology, critical listening, rapid analysis
 
