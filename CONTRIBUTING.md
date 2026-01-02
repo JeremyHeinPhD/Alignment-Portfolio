@@ -21,4 +21,4 @@ Please note that this repository is not accepting pull requests or edits to its 
 
 This project is grounded in symbolic interactionism, inclusive pedagogy, and human-centered AI. I value interdisciplinary dialogue, cultural awareness, and respectful engagement.
 
-Thanks for helping advance the conversation around ethical, inclusive AI.
+Thanks for helping advance the conversation around ethical AI.
