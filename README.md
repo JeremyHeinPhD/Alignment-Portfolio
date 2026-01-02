@@ -1,33 +1,27 @@
-## RLHF Case Studies Using A Sociological Framework  
-Jeremy Hein  
-PhD Sociologist | AI Alignment and Evaluation Specialist | 
+# RLHF Case Studies Using a Sociological Framework  
+**Jeremy Hein, PhD**  
+AI Alignment & Evaluation Specialist  
 
-## Overview
-This repository showcases my applied work in AI training and alignment, building on three decades of research and teaching. Since 2025, I have contributed as a researcher and practitioner to RLHF projects at Snorkel AI, Outlier AI, and Handshake AI — designing edge-case prompts, evaluating model reasoning, and applying inclusive pedagogy to improve large language models (LLMs). My approach to human-centered AI integrates symbolic interaction theory with the perspectives of neurodiverse learners.
+## Overview  
+This repo highlights my applied work in **reinforcement learning from human feedback (RLHF)** and AI alignment. I design stump prompts, evaluate reasoning failures, and apply inclusive pedagogy to improve large language models (LLMs). My approach combines **sociological methods** with practical experience supporting neurodiverse learners.  
 
-## Contents
-- Case studies demonstrating RLHF principles in support of autistic and neurodiverse learners  
-- Rubric-based feedback generators that simulate empathetic instructional responses  
-- Prompt design experiments informed by sociology, pedagogy, and cultural analysis  
+## Contents  
+- Case studies in RLHF for inclusive learning  
+- Rubric‑based feedback generators  
+- Prompt design experiments on bias, fairness, and cross‑cultural reasoning  
 
-## Why It Matters
-This work explores how large language models can be trained and evaluated using humanistic rubrics — especially in emotionally complex or educational contexts. By centering learner-generated schemas and inclusive pedagogy, it contributes to broader conversations around AI alignment, inclusive instruction, and symbolic reasoning in LLMs.
+## Why It Matters  
+AI systems need human‑centered evaluation. My work shows how **rubrics and sociological frameworks** can strengthen fairness, interpretability, and alignment in emotionally complex or educational contexts.  
 
-## Credentials
-- PhD in Sociology, Northwestern University (NSF-funded)  
-- Author of peer-reviewed publications with 1,500+ citations on Google Scholar  
-- Published books with Russell Sage Foundation and Twayne Publishers  
-- Professor of Sociology (1989–2017)  
-- Tutor and special education paraprofessional (2018–2025)  
-- Contributor to RLHF projects at Snorkel AI, Outlier AI, and Handshake AI
-  
+## Credentials  
+- PhD in Sociology, Northwestern University (NSF‑funded)  
+- Professor of Sociology, UW–Eau Claire (1989–2017)  
+- RLHF contributor: Snorkel AI, Outlier AI, Handshake AI  
+- 30+ peer‑reviewed publications, 1,500+ citations  
+- Certificates in Generative AI & Prompt Engineering  
+
 ## Contact  
-Interested in collaborating on RLHF, prompt design, or inclusive AI training?  
-Reach me via [LinkedIn](https://www.linkedin.com/in/jeremyhein) or email: heinj@uwec.edu
-
-## Discoverability  
-To help others find this work, feel free to share or cite this repo using keywords like:  
-RLHF, AI alignment, neurodiversity, rubric-based feedback, symbolic interactionism, inclusive pedagogy, prompt engineering, musicology, comparative religion
+📧 heinj@uwec.edu | [LinkedIn](https://www.linkedin.com/in/dr-jeremy-hein-a8823276)  
 
 ## License: CC BY-NC-SA 4.0
 > 
