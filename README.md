@@ -1,4 +1,4 @@
-# Using a Sociological Frameworks for Human-Centered AI  
+# Using Sociological Frameworks for Human-Centered AI  
 **Jeremy Hein, PhD**  
 AI Alignment & Evaluation Specialist  
 
